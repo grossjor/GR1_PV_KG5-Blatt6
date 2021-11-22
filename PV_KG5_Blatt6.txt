@@ -1,0 +1,8 @@
+https://github.com/grossjor/PV_KG5-Blatt6
+
+Ich muss zugeben das ich nicht hundertprozentig verstanden habe was genau in der Aufgabe zu git gefordert war.
+Zum einen weil ich nicht genau weiß wie man diese Befehle in GITHUB eingibt, zum anderen weil mir die Notation etwas zu schweer zu lesen war.
+Ich habe mich aber mit git auseinandergesetzt, von meinem Editor(ATOM) nach Github commited und umgekehrt, side branches erstellt, 
+sowohl direkt zu main als auch in die side branch commited und dann die Branches wieder zusammengeführt und eventuelle Fehler bereinigt.
+
+Sollte es Probleme geben, das nicht die komplette historie bei GitHub einsehbar ist, dann schreiben Sie mir bitte, dann können wir versuchen das zu beheben.
