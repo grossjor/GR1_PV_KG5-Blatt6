@@ -1,4 +1,4 @@
-https://github.com/grossjor/PV_KG5-Blatt6
+https://github.com/grossjor/PV_KG5-Blatt5
 
 Ich muss zugeben das ich nicht hundertprozentig verstanden habe was genau in der Aufgabe zu git gefordert war.
 Zum einen weil ich nicht genau weiß wie man diese Befehle in GITHUB eingibt, zum anderen weil mir die Notation etwas zu schweer zu lesen war.
