@@ -1,7 +1,0 @@
-Hallo Welt!
-Wir testen hier git-commit
-immernoch
-mit branches
-und mehr seitenbranches
-die dann zurück in die side branch sollen
-und dann neue im main reinschreiben
